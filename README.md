@@ -1,4 +1,4 @@
-##ARIS Report Script
+#ARIS Report Script
 
 
 This ARIS report script is designed to run at the Group level and exports the results into a Word file for easy review and analysis.
